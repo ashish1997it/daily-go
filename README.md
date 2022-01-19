@@ -2,4 +2,4 @@
 Daily Go..
 
 
-- link: https://ashish1997it.github.io/daily-go/
+- link: https://daily-go-v2.herokuapp.com
